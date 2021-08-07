@@ -1,0 +1,35 @@
+reward based intelligent garbage system
+Arduino UNO R3  (Blue)	Rs 518	
+http://fkrt.it/tPF!oSNNNN
+
+Lcd 16 Rs 92.00		
+https://www.electronicscomp.com/16x2-1602-character-green-lcd-display-india?search=Lcd%2016x2
+
+load cell  1 kg Rs 260
+https://www.electronicscomp.com/1kg-load-cell-sensor?search=load%20cell%20%201%20kg%20
+
+Gsm Module Rs 825
+https://www.electronicscomp.com/sim800a-gsm-gprs-module-with-antenna?gclid=CjwKCAiAv4n9BRA9EiwA30WNDwEPmxebi13oH9x4-JawQFmi9CEnHRrT5q6Lk6OFlHE5W3YGmyTghxoCowMQAvD_BwE
+
+Servo Motor Rs 73.00
+https://www.electronicscomp.com/towerpro-sg90-9gm-micro-servo-motor?gclid=CjwKCAiAv4n9BRA9EiwA30WND_y-pTaBdOVjiRX_UBM8at-7OCJrDxzTOjapRVRVALc4ileG-BmhEBoCM68QAvD_BwE
+
+ rf-id reader and tags Rs 149 tags price 25-30rs each
+https://www.roboelements.com/product/mfrc-522-rc522-module-rf-ic-card-reader-sensor-rfid-module/?gclid=CjwKCAiAv4n9BRA9EiwA30WND9T7o8QrfUJvrA_z6O97lcZslcu3eecivZh_CdEO0h-CX-JPhCvPdRoCrQAQAvD_BwE
+
+
+supply adaptor 12 volt Rs 145.00
+https://www.electronicscomp.com/12v-2amp-dc-adaptor?gclid=CjwKCAiAv4n9BRA9EiwA30WND9t-i9oFPchvO8EMt2yfB2TzVkkPeogNQQBsqx6pCkLUXafNVKA4uxoCvn8QAvD_BwE
+
+ ir sensor Rs 33.00
+https://www.electronicscomp.com/ir-sensor-module-india?gclid=CjwKCAiAv4n9BRA9EiwA30WND-mOlqRBKUwJm5XK7n26Kwq-vVx3DEjqjl-F3ZMTGsxQEOCuOGFoLhoC5_MQAvD_BwE
+
+moisture sensor Rs 63.00
+https://www.electronicscomp.com/soil-moisture-sensor-module-india?gclid=CjwKCAiAv4n9BRA9EiwA30WND76jlqDpdodRrCBD1nUR0MNwZQ3OEzeN7ylLJiJeQ4z4KsShSqNZORoCiigQAvD_BwE
+
+
+
+It will be fully automatic without human interface
+
+
+https://www.checkli.com/checklists/guest_view/5fa7b86042404
