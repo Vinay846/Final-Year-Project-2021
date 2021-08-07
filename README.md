@@ -2,6 +2,6 @@
 ## Reward Based Intelligent and management Garbage System
 
 
-[Portal Link](https://smart-dustbin.netlify.app/){:target="_blank"}
+[Portal Link](https://smart-dustbin.netlify.app/)
 
-[Video Link](https://www.youtube.com/watch?v=3Hx32nT9q6o){:target="_blank"}
+[Video Link](https://www.youtube.com/watch?v=3Hx32nT9q6o)
